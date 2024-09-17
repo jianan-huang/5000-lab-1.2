@@ -1,0 +1,107 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About This Project",
+    "section": "",
+    "text": "Lortem ipsum dolor fvr sit amet, consecsstetur adipiscing elit. Pedoin vita suscidt librdero. ## intro Lorem iprsum dolor Nam vestibulum dolor et venenatis ctetur adipiwscing elghit. Nam veestcdibulum, dolor et vendfenatis.\n\nimport numpy as np\nimport matplotlib.pyplot as plt\nx = np.linspace(0, 10, 100)\ny = np.sin(x)\n\n# Create a plot\nplt.figure(figsize=(8, 4))\nplt.plot(x, y, label='Sine Wave')\nplt.title('Sample Sine Wave Plot')\nplt.xlabel('X-axis')\nplt.ylabel('Y-axis')\nplt.legend()\nplt.grid(True)\n\nMatplotlib is building the font cache; this may take a moment."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Introduction",
+    "section": "",
+    "text": "Welcome to my professional Quarto website.\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus interdum.\n\n\nHere are some of the key skills I possess: - Data Analysis - Machine Learning - Deep Learning - Natural Language Processing\n\n\n\n\nThis section provides an overview of my professional background. The details are outlined in the table below.\n\n\n\nRole\nCompany\nDuration\n\n\n\n\nData Engineer\nBoinjo\nJune 2023 - Now\n\n\nData Science Intern\nwiefnwofwo\nSummer 2022\n\n\n\n\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\n\n\n\n\n\nProject A: Analysis of large datasets.\nProject B: Development of prediction models.\nProject C: Natural Language Processing on textual data.\n\n\n\n\n\n\nImproved data processing speed by 30%.\nDeveloped a robust machine learning model with 90% accuracy.\nImplemented a data governance framework for data consistency.\n\n\n\n\n\n\n\nHere is an inline equation as an example: $ E = mc^2 $\nAnd here is a more complex equation:\n\\[\n\\int_{a}^{b} x^2 dx = \\frac{b^3}{3} - \\frac{a^3}{3}\n\\]\n\n\n\nThis section includes a footnote reference.1\n\n“Data is the new oil.” – Clive Humby\n\n\n\n\nBelow are some embedded images and a video illustrating my work.\n\n\n\nData Flow Diagram\n\n\n\n\n\nProject Architecture\n\n\n\n\n\n\n\nYour browser does not support the video tag. \n\n\n\nHere is a simple Mermaid diagram to represent a process flow:\n\n\n\n\n\ngraph TD;\n    A[Start] --&gt; B[Process 1];\n    B --&gt; C{Decision};\n    C --&gt;|Yes| D[Process 2];\n    C --&gt;|No| E[End];\n\n\n\n\n\n\n(Akira et al. 1994)"
+  },
+  {
+    "objectID": "index.html#background",
+    "href": "index.html#background",
+    "title": "Introduction",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus interdum.\n\n\nHere are some of the key skills I possess: - Data Analysis - Machine Learning - Deep Learning - Natural Language Processing"
+  },
+  {
+    "objectID": "index.html#professional-experience",
+    "href": "index.html#professional-experience",
+    "title": "Introduction",
+    "section": "",
+    "text": "This section provides an overview of my professional background. The details are outlined in the table below.\n\n\n\nRole\nCompany\nDuration\n\n\n\n\nData Engineer\nBoinjo\nJune 2023 - Now\n\n\nData Science Intern\nwiefnwofwo\nSummer 2022"
+  },
+  {
+    "objectID": "index.html#analytical-focus",
+    "href": "index.html#analytical-focus",
+    "title": "Introduction",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.\n\n\n\n\n\nProject A: Analysis of large datasets.\nProject B: Development of prediction models.\nProject C: Natural Language Processing on textual data.\n\n\n\n\n\n\nImproved data processing speed by 30%.\nDeveloped a robust machine learning model with 90% accuracy.\nImplemented a data governance framework for data consistency."
+  },
+  {
+    "objectID": "index.html#equations-and-models",
+    "href": "index.html#equations-and-models",
+    "title": "Introduction",
+    "section": "",
+    "text": "Here is an inline equation as an example: $ E = mc^2 $\nAnd here is a more complex equation:\n\\[\n\\int_{a}^{b} x^2 dx = \\frac{b^3}{3} - \\frac{a^3}{3}\n\\]"
+  },
+  {
+    "objectID": "index.html#footnote-and-quote",
+    "href": "index.html#footnote-and-quote",
+    "title": "Introduction",
+    "section": "",
+    "text": "This section includes a footnote reference.1\n\n“Data is the new oil.” – Clive Humby"
+  },
+  {
+    "objectID": "index.html#embedded-media",
+    "href": "index.html#embedded-media",
+    "title": "Introduction",
+    "section": "",
+    "text": "Below are some embedded images and a video illustrating my work.\n\n\n\nData Flow Diagram\n\n\n\n\n\nProject Architecture"
+  },
+  {
+    "objectID": "index.html#project-overview-video",
+    "href": "index.html#project-overview-video",
+    "title": "Introduction",
+    "section": "",
+    "text": "Your browser does not support the video tag."
+  },
+  {
+    "objectID": "index.html#visual-diagram",
+    "href": "index.html#visual-diagram",
+    "title": "Introduction",
+    "section": "",
+    "text": "Here is a simple Mermaid diagram to represent a process flow:\n\n\n\n\n\ngraph TD;\n    A[Start] --&gt; B[Process 1];\n    B --&gt; C{Decision};\n    C --&gt;|Yes| D[Process 2];\n    C --&gt;|No| E[End];\n\n\n\n\n\n\n(Akira et al. 1994)"
+  },
+  {
+    "objectID": "index.html#footnotes",
+    "href": "index.html#footnotes",
+    "title": "Introduction",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nThis is the footnote text.↩︎"
+  },
+  {
+    "objectID": "slides/slides.html#introduction",
+    "href": "slides/slides.html#introduction",
+    "title": "Title",
+    "section": "Introduction",
+    "text": "Introduction\n\nData Science overview\nResearch insights (Akira et al. 1994)."
+  },
+  {
+    "objectID": "slides/slides.html#data-visualization",
+    "href": "slides/slides.html#data-visualization",
+    "title": "Title",
+    "section": "Data Visualization",
+    "text": "Data Visualization"
+  },
+  {
+    "objectID": "slides/slides.html#python-code-example",
+    "href": "slides/slides.html#python-code-example",
+    "title": "Title",
+    "section": "Python Code Example",
+    "text": "Python Code Example"
+  },
+  {
+    "objectID": "slides/slides.html#reference",
+    "href": "slides/slides.html#reference",
+    "title": "Title",
+    "section": "Reference",
+    "text": "Reference\n(Akira et al. 1994)\n\n\n\n\n\n\n\n\nAkira, Shizuo, Yukihiro Nishio, Masahiro Inoue, Xue-Jie Wang, Shi We, Taiji Matsusaka, Kanji Yoshida, Tetsuo Sudo, Masanobu Naruto, and Tadamitsu Kishimoto. 1994. “Molecular Cloning of APRF, a Novel IFN-Stimulated Gene Factor 3 P91-Related Transcription Factor Involved in the Gp130-Mediated Signaling Pathway.” Cell 77 (1): 63–71."
+  }
+]

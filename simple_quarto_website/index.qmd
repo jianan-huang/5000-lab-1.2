@@ -1,0 +1,89 @@
+---
+ttitle: "My Quarto Website"
+author: "Jianan Huang"
+date: "2024-09-16"
+bibliography: reference.bib
+---
+
+# Introduction
+Welcome to my professional Quarto website. 
+
+## Background
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus interdum.
+
+### Skills
+Here are some of the key skills I possess:
+- Data Analysis
+- Machine Learning
+- Deep Learning
+- Natural Language Processing
+
+## Professional Experience
+This section provides an overview of my professional background. The details are outlined in the table below.
+
+| Role                   | Company       | Duration        |
+|------------------------|---------------|-----------------|
+| Data Engineer          | Boinjo         | June 2023 - Now |
+| Data Science Intern    | wiefnwofwo    | Summer 2022     |
+
+## Analytical Focus
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
+::: {.columns}
+::: {.column width="50%"}
+### Data Science Projects
+1. Project A: Analysis of large datasets.
+2. Project B: Development of prediction models.
+3. Project C: Natural Language Processing on textual data.
+:::
+::: {.column width="50%"}
+### Key Achievements
+- Improved data processing speed by 30%.
+- Developed a robust machine learning model with 90% accuracy.
+- Implemented a data governance framework for data consistency.
+:::
+:::
+
+## Equations and Models
+Here is an inline equation as an example: $ E = mc^2 $
+
+And here is a more complex equation:
+
+$$
+\int_{a}^{b} x^2 dx = \frac{b^3}{3} - \frac{a^3}{3}
+$$
+
+## Footnote and Quote
+This section includes a footnote reference.[^1]
+
+[^1]: This is the footnote text.
+
+
+> "Data is the new oil." – Clive Humby
+
+## Embedded Media
+Below are some embedded images and a video illustrating my work.
+
+![Data Flow Diagram](images/image1.png)
+
+![Project Architecture](images/image2.png)
+
+## Project Overview Video
+<video width="640" height="360" controls>
+  <source src="images/161_1726538086.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+## Visual Diagram
+Here is a simple Mermaid diagram to represent a process flow:
+
+
+```{mermaid}
+graph TD;
+    A[Start] --> B[Process 1];
+    B --> C{Decision};
+    C -->|Yes| D[Process 2];
+    C -->|No| E[End];
+```
+
+[@akira1994molecular]

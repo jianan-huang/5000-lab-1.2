@@ -1,0 +1,132 @@
+(base) jianansmacbookpro@huangjianandeMacBook-Pro fall-2024-assignment-01-jianan-huang % pwd                                                               
+/Users/jianansmacbookpro/Desktop/DSAN 5400/fall-2024-assignment-01-jianan-huang
+(base) jianansmacbookpro@huangjianandeMacBook-Pro fall-2024-assignment-01-jianan-huang % cd ../../
+(base) jianansmacbookpro@huangjianandeMacBook-Pro Desktop % ls
+DSAN 5000			JIANAN_HUANG_ASSIGNMENT1.zip	Week7
+DSAN 5100			Lab-1.1.2.txt			github-1.png
+DSAN 5400			Old_Homebrew			lab-1.1.1.png
+(base) jianansmacbookpro@huangjianandeMacBook-Pro Desktop % cd DSAN\ 5000 
+(base) jianansmacbookpro@huangjianandeMacBook-Pro DSAN 5000 % cd Lab 
+(base) jianansmacbookpro@huangjianandeMacBook-Pro Lab % git clone https://github.com/jianan-huang/5000-lab-1.2.git   
+Cloning into '5000-lab-1.2'...
+remote: Enumerating objects: 3, done.
+remote: Counting objects: 100% (3/3), done.
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+Receiving objects: 100% (3/3), done.
+(base) jianansmacbookpro@huangjianandeMacBook-Pro Lab(base) jianansmacbookpro@huangjianandeMacBook-Pro fall-2024-assignment-01-jianan-huang % pwd                                                               
+/Users/jianansmacbookpro/Desktop/DSAN 5400/fall-2024-assignment-01-jianan-huang
+(base) jianansmacbookpro@huangjianandeMacBook-Pro fall-2024-assignment-01-jianan-huang % cd ../../
+(base) jianansmacbookpro@huangjianandeMacBook-Pro Desktop % ls
+DSAN 5000			JIANAN_HUANG_ASSIGNMENT1.zip	Week7
+DSAN 5100			Lab-1.1.2.txt			github-1.png
+DSAN 5400			Old_Homebrew			lab-1.1.1.png
+(base) jianansmacbookpro@huangjianandeMacBook-Pro Desktop % cd DSAN\ 5000 
+(base) jianansmacbookpro@huangjianandeMacBook-Pro DSAN 5000 % cd Lab 
+(base) jianansmacbookpro@huangjianandeMacBook-Pro Lab % git clone https://github.com/jianan-huang/5000-lab-1.2.git   
+Cloning into '5000-lab-1.2'...
+remote: Enumerating objects: 3, done.
+remote: Counting objects: 100% (3/3), done.
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+Receiving objects: 100% (3/3), done.
+(base) jianansmacbookpro@huangjianandeMacBook-Pro Lab % 
+
+(base) jianansmacbookpro@huangjianandeMacBook-Pro fall-2024-assignment-01-jianan-huang % pwd                                                               
+/Users/jianansmacbookpro/Desktop/DSAN 5400/fall-2024-assignment-01-jianan-huang
+(base) jianansmacbookpro@huangjianandeMacBook-Pro fall-2024-assignment-01-jianan-huang % cd ../../
+(base) jianansmacbookpro@huangjianandeMacBook-Pro Desktop % ls
+DSAN 5000			JIANAN_HUANG_ASSIGNMENT1.zip	Week7
+DSAN 5100			Lab-1.1.2.txt			github-1.png
+DSAN 5400			Old_Homebrew			lab-1.1.1.png
+(base) jianansmacbookpro@huangjianandeMacBook-Pro Desktop % cd DSAN\ 5000 
+(base) jianansmacbookpro@huangjianandeMacBook-Pro DSAN 5000 % cd Lab 
+(base) jianansmacbookpro@huangjianandeMacBook-Pro Lab % git clone https://github.com/jianan-huang/5000-lab-1.2.git   
+Cloning into '5000-lab-1.2'...
+remote: Enumerating objects: 3, done.
+remote: Counting objects: 100% (3/3), done.
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+Receiving objects: 100% (3/3), done.
+(base) jianansmacbookpro@huangjianandeMacBook-Pro Lab % ls
+5000-lab-1.2	Lab1.1
+(base) jianansmacbookpro@huangjianandeMacBook-Pro Lab % cd 5000-lab-1.2 
+(base) jianansmacbookpro@huangjianandeMacBook-Pro 5000-lab-1.2 % touch command.txt
+(base) jianansmacbookpro@huangjianandeMacBook-Pro 5000-lab-1.2 % nano command.txt 
+(base) jianansmacbookpro@huangjianandeMacBook-Pro 5000-lab-1.2 % more command.txt 
+(base) jianansmacbookpro@huangjianandeMacBook-Pro fall-2024-assignment-01-jianan-huang % pwd                                                               
+/Users/jianansmacbookpro/Desktop/DSAN 5400/fall-2024-assignment-01-jianan-huang
+(base) jianansmacbookpro@huangjianandeMacBook-Pro fall-2024-assignment-01-jianan-huang % cd ../../
+(base) jianansmacbookpro@huangjianandeMacBook-Pro Desktop % ls
+DSAN 5000                       JIANAN_HUANG_ASSIGNMENT1.zip    Week7
+DSAN 5100                       Lab-1.1.2.txt                   github-1.png
+DSAN 5400                       Old_Homebrew                    lab-1.1.1.png
+(base) jianansmacbookpro@huangjianandeMacBook-Pro Desktop % cd DSAN\ 5000 
+(base) jianansmacbookpro@huangjianandeMacBook-Pro DSAN 5000 % cd Lab 
+(base) jianansmacbookpro@huangjianandeMacBook-Pro Lab % git clone https://github.com/jianan-huang/5000-lab-1.2.git   
+Cloning into '5000-lab-1.2'...
+remote: Enumerating objects: 3, done.
+remote: Counting objects: 100% (3/3), done.
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+Receiving objects: 100% (3/3), done.
+(base) jianansmacbookpro@huangjianandeMacBook-Pro Lab(base) jianansmacbookpro@huangjianandeMacBook-Pro fall-2024-assignment-01-jianan-huang % pwd                                                               
+/Users/jianansmacbookpro/Desktop/DSAN 5400/fall-2024-assignment-01-jianan-huang
+(base) jianansmacbookpro@huangjianandeMacBook-Pro fall-2024-assignment-01-jianan-huang % cd ../../
+(base) jianansmacbookpro@huangjianandeMacBook-Pro Desktop % ls
+DSAN 5000                       JIANAN_HUANG_ASSIGNMENT1.zip    Week7
+DSAN 5100                       Lab-1.1.2.txt                   github-1.png
+DSAN 5400                       Old_Homebrew                    lab-1.1.1.png
+(base) jianansmacbookpro@huangjianandeMacBook-Pro Desktop % cd DSAN\ 5000 
+(base) jianansmacbookpro@huangjianandeMacBook-Pro DSAN 5000 % cd Lab 
+(base) jianansmacbookpro@huangjianandeMacBook-Pro Lab % git clone https://github.com/jianan-huang/5000-lab-1.2.git   
+Cloning into '5000-lab-1.2'...
+remote: Enumerating objects: 3, done.
+remote: Counting objects: 100% (3/3), done.
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+Receiving objects: 100% (3/3), done.
+(base) jianansmacbookpro@huangjianandeMacBook-Pro Lab % 
+
+
+
+
+
+(base) jianansmacbookpro@huangjianandeMacBook-Pro 5000-lab-1.2 % pwd
+/Users/jianansmacbookpro/Desktop/DSAN 5000/Lab/5000-lab-1.2
+(base) jianansmacbookpro@huangjianandeMacBook-Pro 5000-lab-1.2 % touch reference.bib
+(base) jianansmacbookpro@huangjianandeMacBook-Pro 5000-lab-1.2 % nano reference.bib 
+(base) jianansmacbookpro@huangjianandeMacBook-Pro 5000-lab-1.2 % cd simple_quarto_website 
+(base) jianansmacbookpro@huangjianandeMacBook-Pro simple_quarto_website % rm styles.css
+(base) jianansmacbookpro@huangjianandeMacBook-Pro simple_quarto_website % mkdir images
+(base) jianansmacbookpro@huangjianandeMacBook-Pro simple_quarto_website % mkdir slides
+(base) jianansmacbookpro@huangjianandeMacBook-Pro simple_quarto_website % quarto convert about.qmd
+Converted to about.ipynb
+(base) jianansmacbookpro@huangjianandeMacBook-Pro simple_quarto_website % ls
+_quarto.yml	about.ipynb	about.qmd	images		index.qmd	slides
+(base) jianansmacbookpro@huangjianandeMacBook-Pro simple_quarto_website % cd ../        
+(base) jianansmacbookpro@huangjianandeMacBook-Pro 5000-lab-1.2 % ls
+README.md		command.txt		reference.bib		simple_quarto_website
+(base) jianansmacbookpro@huangjianandeMacBook-Pro 5000-lab-1.2 % more reference.bib
+@article{akira1994molecular,
+  title={Molecular cloning of APRF, a novel IFN-stimulated gene factor 3 p91-related transcription factor involved in the gp130-mediated signaling 
+pathway},
+  author={Akira, Shizuo and Nishio, Yukihiro and Inoue, Masahiro and Wang, Xue-Jie and We, Shi and Matsusaka, Taiji and Yoshida, Kanji and Sudo, 
+Tetsuo and Naruto, Masanobu and Kishimoto, Tadamitsu},
+  journal={Cell},
+  volume={77},
+  number={1},
+  pages={63--71},
+  year={1994},
+  publisher={Cell Press}
+}
+@article{rogers1995beam,
+  title={BEAM: a Monte Carlo code to simulate radiotherapy treatment units},
+  author={Rogers, DWO and Faddegon, BA and Ding, GX and Ma, C-M and We, J and Mackie, TR},
+  journal={Medical physics},
+  volume={22},
+  number={5},
+  pages={503--524},
+  year={1995},
+  publisher={Wiley Online Library}
+}
+(base) jianansmacbookpro@huangjianandeMacBook-Pro 5000-lab-1.2 % 
+
+
+
+
